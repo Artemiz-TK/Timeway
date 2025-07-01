@@ -31,7 +31,7 @@
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
 
-# Viual Studio config json file
+# Viual Studio config JSON file
 .vsconfig
 
 # Visual Studio cache directory
